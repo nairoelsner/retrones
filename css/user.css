@@ -1,0 +1,17 @@
+.user-infos{
+	display: flex;
+    flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 51vh;
+    font-size: 30px;
+}
+.user-infos p{
+    margin: 5px
+}
+
+.user-infos button{
+    height: 30px;
+    font-size: 20px;
+    margin: 5px
+}
